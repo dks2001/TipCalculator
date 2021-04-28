@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">15dp</dimen>
+    <dimen name="biling_amount_padding">15dp</dimen>
+    <dimen name="seekbae_height">45dp</dimen>
+</resources>
